@@ -58,5 +58,4 @@
 "Toyota",
 "Triumph",
 "Volkswagen",
-"Volvo",
-"Other"]
+"Volvo"]
